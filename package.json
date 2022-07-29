@@ -1,0 +1,18 @@
+{
+  "name": "final_evaluation",
+  "version": "1.0.0",
+  "description": "Evaluation Finale Back-End Programme D-CLIC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nomena",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-myconnection": "^1.0.4",
+    "mongoose": "^6.5.0",
+    "mysql": "^2.18.1"
+  }
+}
